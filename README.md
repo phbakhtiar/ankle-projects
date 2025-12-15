@@ -8,3 +8,5 @@ VGG-16 Regressor:
 The Reconstruciton network is desined to receive the AP and LT images of the joint and reveal the shape and pose parameters of a Statistical Shape and Intensity Model (SSIM) of the joint.
 
 The networks are tuned by grid search hyper parameter optimization technique in separate files.
+
+The networks are implemented using TensorFlow. Many complementary Matlab scripts are written for this project. Concact me if interested.
